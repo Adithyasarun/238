@@ -1,0 +1,12 @@
+manage.py
+
+control all function of server
+
+init.py
+
+mannage sql alchemy
+
+views.py
+
+display gui
+
